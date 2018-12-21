@@ -1,0 +1,4 @@
+__pycache__
+unity-environment.log
+runs
+checkpoints/episode.*
